@@ -93,7 +93,7 @@ local PublicPhoneobject = {
     -1559354806
 }
 
-exports["qb-target"]:AddTargetModel(PublicPhoneobject, {
+exports["prp-target"]:AddTargetModel(PublicPhoneobject, {
     options = {
         {
             type = "client",

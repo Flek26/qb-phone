@@ -9,8 +9,8 @@ ui_page 'html/index.html'
 
 shared_scripts {
     'config.lua',
-    '@qb-apartments/config.lua',
-    '@qb-garages/config.lua',
+    '@prp-apartments/config.lua',
+    '@prp-garages/config.lua',
 }
 
 client_scripts {
@@ -36,4 +36,4 @@ files {
 
 lua54 'yes'
 
-dependency 'qb-target'
+dependency 'prp-target'
