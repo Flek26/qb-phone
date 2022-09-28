@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+local QBCore = exports['prp-core']:GetCoreObject()
 
 QBCore.Functions.CreateCallback('qb-phone:server:GetAvailableTaxiDrivers', function(_, cb)
     local TaxiDrivers = {}

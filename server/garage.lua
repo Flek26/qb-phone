@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+local QBCore = exports['prp-core']:GetCoreObject()
 
 RegisterNetEvent('qb-phone:server:sendVehicleRequest', function(data)
     local src = source

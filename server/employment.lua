@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+local QBCore = exports['prp-core']:GetCoreObject()
 
 local CachedJobs = {}
 local CachedPlayers = {}

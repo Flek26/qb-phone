@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+local QBCore = exports['prp-core']:GetCoreObject()
 
 
 -- Use This Callback Whenever You Need To Get A the information --
