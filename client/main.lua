@@ -47,7 +47,7 @@ local function IsNumberInContacts(num)
         end
     end
 
-    return "Unknown"
+    return num
 end
 
 local function hasPhone()
